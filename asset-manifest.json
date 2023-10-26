@@ -1,19 +1,32 @@
 {
   "files": {
     "main.css": "/ilyakroll/static/css/main.31d6cfe0.css",
-    "main.js": "/ilyakroll/static/js/main.24e98243.js",
+    "main.js": "/ilyakroll/static/js/main.1ae5ecab.js",
     "static/js/787.25eaef86.chunk.js": "/ilyakroll/static/js/787.25eaef86.chunk.js",
     "static/media/rabbit.png": "/ilyakroll/static/media/rabbit.4a30b5d8f257c9cba1fb.png",
+    "static/media/rabrab.jpg": "/ilyakroll/static/media/rabrab.a15693c0979678ed924d.jpg",
     "static/media/bigRabbit.jpg": "/ilyakroll/static/media/bigRabbit.dbb2da47a245d63f4479.jpg",
+    "static/media/kroliks.jpg": "/ilyakroll/static/media/kroliks.6a96cdff6629ec876940.jpg",
+    "static/media/kroll.jpg": "/ilyakroll/static/media/kroll.f1e6058ce1a67876f520.jpg",
+    "static/media/rabbitFirst.jpg": "/ilyakroll/static/media/rabbitFirst.69da392d871348734cb6.jpg",
+    "static/media/rabbitEating.jpg": "/ilyakroll/static/media/rabbitEating.6cbf90fbce84130cae94.jpg",
     "static/media/bunny.jpg": "/ilyakroll/static/media/bunny.6f04481ee5852332c5d9.jpg",
+    "static/media/springRabbit.jpg": "/ilyakroll/static/media/springRabbit.92c12c6ca947a0f32ca0.jpg",
     "static/media/andRabbitEating.jpg": "/ilyakroll/static/media/andRabbitEating.02674f9a68e678e3c5f4.jpg",
+    "static/media/rrab.jpg": "/ilyakroll/static/media/rrab.9a16fbe7da18a1f92ac3.jpg",
+    "static/media/krrrroll.jpg": "/ilyakroll/static/media/krrrroll.89ce94b7392a3974fa30.jpg",
+    "static/media/rabbitJope.jpg": "/ilyakroll/static/media/rabbitJope.752f62691c1beba27c28.jpg",
+    "static/media/elsoRabbitEating.jpg": "/ilyakroll/static/media/elsoRabbitEating.b95442af11a8799b5479.jpg",
+    "static/media/krolik.jpg": "/ilyakroll/static/media/krolik.a6bdbf08c274b7de6797.jpg",
+    "static/media/bunnyCute.jpg": "/ilyakroll/static/media/bunnyCute.56425f02d8ede5e3f012.jpg",
     "static/media/raaaabbit.png": "/ilyakroll/static/media/raaaabbit.bfa3a75fb64111b02bce.png",
+    "static/media/veryBigRabbit.jpg": "/ilyakroll/static/media/veryBigRabbit.ac4bb6d1d0314342e223.jpg",
     "index.html": "/ilyakroll/index.html",
-    "main.24e98243.js.map": "/ilyakroll/static/js/main.24e98243.js.map",
+    "main.1ae5ecab.js.map": "/ilyakroll/static/js/main.1ae5ecab.js.map",
     "787.25eaef86.chunk.js.map": "/ilyakroll/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.24e98243.js"
+    "static/js/main.1ae5ecab.js"
   ]
 }
