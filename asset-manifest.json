@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ilyakroll/static/css/main.31d6cfe0.css",
-    "main.js": "/ilyakroll/static/js/main.28b7e57a.js",
+    "main.js": "/ilyakroll/static/js/main.e37aefd6.js",
     "static/js/787.25eaef86.chunk.js": "/ilyakroll/static/js/787.25eaef86.chunk.js",
     "static/media/rabbit.png": "/ilyakroll/static/media/rabbit.4a30b5d8f257c9cba1fb.png",
     "static/media/bigRabbit.jpg": "/ilyakroll/static/media/bigRabbit.dbb2da47a245d63f4479.jpg",
@@ -9,11 +9,11 @@
     "static/media/andRabbitEating.jpg": "/ilyakroll/static/media/andRabbitEating.02674f9a68e678e3c5f4.jpg",
     "static/media/raaaabbit.png": "/ilyakroll/static/media/raaaabbit.bfa3a75fb64111b02bce.png",
     "index.html": "/ilyakroll/index.html",
-    "main.28b7e57a.js.map": "/ilyakroll/static/js/main.28b7e57a.js.map",
+    "main.e37aefd6.js.map": "/ilyakroll/static/js/main.e37aefd6.js.map",
     "787.25eaef86.chunk.js.map": "/ilyakroll/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.28b7e57a.js"
+    "static/js/main.e37aefd6.js"
   ]
 }
