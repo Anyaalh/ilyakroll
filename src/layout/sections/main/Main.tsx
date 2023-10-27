@@ -225,6 +225,19 @@ const Eml = styled.input`
     padding-left: 15px;
   }
   
+  &:hover{
+    border: 2px solid ${theme.colors.accent};
+  }
+  
+  &:focus{
+    padding-left: 15px;
+    outline: none;
+    border: 2px solid ${theme.colors.accent};
+    
+    &::placeholder{
+      padding-left: 0;
+    }
+  }
 `
 
 const SomeText = styled.h4`

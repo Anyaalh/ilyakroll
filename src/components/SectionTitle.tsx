@@ -23,7 +23,7 @@ export const SectionTitle= styled.h2`
   &::after{
     content: "Обо мне";
     position: absolute;
-    transform: translate(-155px, -20px) scale(2.25);
+    transform: translate(-193px, -27px) scale(2.25);
     transform-origin: center;
     color: ${theme.colors.primaryFont};
     opacity: 0.06;

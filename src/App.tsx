@@ -9,6 +9,7 @@ import {Gallery} from "./layout/sections/gallery/Gallery";
 import {Testymony} from "./layout/sections/testimony/Testymony";
 import {Information} from "./layout/sections/information/Information";
 import {Footer} from "./layout/footer/Footer";
+import {Serveses} from "./layout/sections/serveses/Serveses";
 
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
             <Header/>
             <Main/>
             <AboutUs/>
-            {/*<Track/>*/}
+            <Track/>
+            <Serveses/>
             {/*<HowItsWork/>*/}
             {/*<Gallery/>*/}
             {/*<Testymony/>*/}
