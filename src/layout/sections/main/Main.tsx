@@ -60,7 +60,7 @@ export const Main = () => {
                 </StyledBtn>
                 </BoxForBtn>
                 <Eml type={"text"} placeholder={"Кролик тут может написать что-то"}/>
-                <SomeText>Хевоу, кролсик</SomeText>
+                <SomeText>Хевоу, я кролсик</SomeText>
                 <StyledBus src={bus} alt={"bus"}/>
                 <ElsoText>Бус для кролика</ElsoText>
                 <MyPng src={arrow} alt={"arrow"}/>
@@ -134,7 +134,6 @@ const Right = styled.div`
   height: 100%;
   align-items: center;
   
-  }
 `
 const MainTitle = styled.h2`
   margin: 60px 0 20px;
@@ -262,7 +261,7 @@ const StyledBus = styled.img`
 
 const ElsoText = styled.p`
   position: absolute;
-  top: 570px;
+  top: 580px;
   right: 45px;
   color: ${theme.colors.primaryFont};
   font-size: 15px;
