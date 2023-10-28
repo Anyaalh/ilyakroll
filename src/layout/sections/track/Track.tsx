@@ -20,7 +20,7 @@ const StyledTrack = styled.section`
   width: 100%;
   height: 415px;
   background-image: url("https://w.forfun.com/fetch/8f/8feb239abc2d99c51c669a479d14b093.jpeg");
-  object-fit: cover;
+  background-size: cover;
   background-position: center;
   position: relative;
 `

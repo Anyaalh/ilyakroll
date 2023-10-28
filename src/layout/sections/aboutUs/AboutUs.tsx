@@ -92,7 +92,7 @@ const Photos = styled.div`
 
 const FirstPhoto = styled.div`
   background-image: url("http://images.fineartamerica.com/images-medium-large-5/white-rabbit-roeselien-raimond.jpg");
-  object-fit: cover;
+  background-size: cover;
   background-position: center;
   width: 230px;
   height: 250px;
@@ -102,8 +102,8 @@ const FirstPhoto = styled.div`
 `
 
 const SecondPhoto = styled.div`
-  background-image: url("https://i.ytimg.com/vi/-Oqe8Rouu5M/maxresdefault.jpg");
-  object-fit: cover;
+  background-image: url("https://i.pinimg.com/736x/51/5d/29/515d29d87ea17fa5c130bf50f2a0e931.jpg");
+  background-size: cover;
   background-position: center;
   width: 175px;
   height: 190px;
@@ -118,7 +118,7 @@ const SecondPhoto = styled.div`
 
 const ThirdPhoto = styled.div`
   background-image: url("https://thumbs.dreamstime.com/b/%D0%BA%D1%80%D0%BE-%D0%B8%D0%BA-32839648.jpg");
-  object-fit: cover;
+  background-size: cover;
   background-position: center;
   width: 120px;
   height: 135px;
